@@ -61,13 +61,9 @@ COLM 2026 Workshop (Lifelong Agent) &nbsp;·&nbsp; [paper](https://arxiv.org/abs
 
 ## Domain LLMs
 
-### Visual reasoning
-
 **[Self-Evolving Code-with-Image Reasoning](https://arxiv.org/abs/2608.11292)**  
 Tianze Yang, Liang Wu, Ruitong Sun, Yucheng Shi, Yanqiao Wang, Mayank Darbari, Ninghao Liu, Jin Sun, Liangjie Hong  
 arXiv 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2608.11292) &nbsp;·&nbsp; [data](https://huggingface.co/datasets/ytz009/CwI-Bench)
-
-### Recommendation
 
 **[PageLLM](https://arxiv.org/abs/2506.09084)** — A Multi-Grained Reward Framework for Whole-Page Optimization with Large Language Models  
 Xinyuan Wang, Liang Wu, Dongjie Wang, Yanjie Fu  
@@ -77,13 +73,9 @@ CIKM 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2506.09084)
 Zaiyi Zheng, Liang Wu, Guanghui Min, Yaochen Zhu, Liangjie Hong, Chen Chen, Jundong Li  
 arXiv 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2605.17648)
 
-### Time series
-
 **[LLM Agents for Time-Series: A Survey](https://arxiv.org/abs/2608.26226)**  
 Yilong Chen, Xiao Qin, Chenghao Liu, Liang Wu, Noelle I. Samia, Kaize Ding  
 Findings of EMNLP 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2608.26226)
-
-### Telecom
 
 **[Towards Resilient and Autonomous Networks: A BlueSky Vision on AI-Native 6G](https://arxiv.org/abs/2605.21395)**  
 Liang Wu, Kelly Wan, Mayank Darbari, Liangjie Hong  
