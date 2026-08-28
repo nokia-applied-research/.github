@@ -4,7 +4,7 @@
 
 We build **production agents** — systems that have to run, retrieve, and reason under real constraints.
 
-**Agent efficiency** &nbsp;·&nbsp; **Skill optimization** &nbsp;·&nbsp; **Domain LLMs**
+**Agent efficiency** &nbsp;·&nbsp; **Domain LLMs** &nbsp;·&nbsp; **Skill optimization**
 
 </div>
 
@@ -20,14 +20,14 @@ Compress what agents remember and serve them on a budget: KV cache, long-horizon
 </td>
 <td width="33%" valign="top">
 
-**Skill optimization**  
-Treat skills as structured objects. Retrieve the right procedure as the skill bank grows — not a flattened document dump.
+**Domain LLMs**  
+Specialize models for the workloads we ship: telecom, recommendation, visual reasoning, and time series.
 
 </td>
 <td width="33%" valign="top">
 
-**Domain LLMs**  
-Specialize models for the workloads we ship: telecom, recommendation, visual reasoning, and time series.
+**Skill optimization**  
+Treat skills as structured objects. Retrieve the right procedure as the skill bank grows — not a flattened document dump.
 
 </td>
 </tr>
@@ -51,14 +51,6 @@ arXiv 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2606.21868)
 
 ---
 
-## Skill optimization
-
-**[Field Aware Agent Skill Retrieval](https://arxiv.org/abs/2608.02880)**  
-Paimon Goulart, Liang Wu, Kelly Wan, Evangelos E. Papalexakis, Liangjie Hong  
-COLM 2026 Workshop (Lifelong Agent) &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2608.02880)
-
----
-
 ## Domain LLMs
 
 **[Self-Evolving Code-with-Image Reasoning](https://arxiv.org/abs/2608.11292)**  
@@ -67,7 +59,7 @@ arXiv 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2608.11292) &nbsp;·&nbs
 
 **[PageLLM](https://arxiv.org/abs/2506.09084)** — A Multi-Grained Reward Framework for Whole-Page Optimization with Large Language Models  
 Xinyuan Wang, Liang Wu, Dongjie Wang, Yanjie Fu  
-CIKM 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2506.09084)
+ACM International Conference on Information and Knowledge Management, **CIKM 2026** &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2506.09084)
 
 **[SAPO](https://arxiv.org/abs/2605.17648)** — Step-Aligned Policy Optimization for Reasoning-Based Generative Recommendation  
 Zaiyi Zheng, Liang Wu, Guanghui Min, Yaochen Zhu, Liangjie Hong, Chen Chen, Jundong Li  
@@ -75,16 +67,24 @@ arXiv 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2605.17648)
 
 **[LLM Agents for Time-Series: A Survey](https://arxiv.org/abs/2608.26226)**  
 Yilong Chen, Xiao Qin, Chenghao Liu, Liang Wu, Noelle I. Samia, Kaize Ding  
-Findings of EMNLP 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2608.26226)
+Conference on Empirical Methods in Natural Language Processing, **EMNLP 2026** &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2608.26226)
 
 **[Towards Resilient and Autonomous Networks: A BlueSky Vision on AI-Native 6G](https://arxiv.org/abs/2605.21395)**  
 Liang Wu, Kelly Wan, Mayank Darbari, Liangjie Hong  
-KDD 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2605.21395)
+ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, **KDD 2026** &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2605.21395)
 
 **KAC** — KPI-Aware Multimodal Anomaly Detection for 5G and Open RAN Telemetry  
 Chiman Salavati, Liang Wu, Kelly Wan, Mayank Darbari, Liangjie Hong  
-ICDM 2026 (Applied Track) &nbsp;·&nbsp; [code](https://github.com/ChimanSalavati/kac-telecom-anomaly-detection)
+IEEE International Conference on Data Mining, **ICDM 2026** &nbsp;·&nbsp; [code](https://github.com/ChimanSalavati/kac-telecom-anomaly-detection)
 
 **TelecomAudit** — Origin-Aware Benchmark Auditing and Calibration for 5G Anomaly Detection  
 Chiman Salavati, Liang Wu, Kelly Wan, Mayank Darbari, Liangjie Hong  
-CIKM 2026 &nbsp;·&nbsp; [code](https://github.com/ChimanSalavati/telecomts-real-synthetic-gap)
+ACM International Conference on Information and Knowledge Management, **CIKM 2026** &nbsp;·&nbsp; [code](https://github.com/ChimanSalavati/telecomts-real-synthetic-gap)
+
+---
+
+## Skill optimization
+
+**[Field Aware Agent Skill Retrieval](https://arxiv.org/abs/2608.02880)**  
+Paimon Goulart, Liang Wu, Kelly Wan, Evangelos E. Papalexakis, Liangjie Hong  
+Conference on Language Modeling, **COLM 2026** &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2608.02880)
