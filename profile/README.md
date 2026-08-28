@@ -1,49 +1,98 @@
+<div align="center">
+
 # Nokia Applied Research
 
-Applied machine learning research at Nokia — LLM serving and compression, long-horizon agents, recommendation, and AI-native networks.
+We build **production agents** — systems that have to run, retrieve, and reason under real constraints.
 
-## Publications
+**Agent efficiency** &nbsp;·&nbsp; **Skill optimization** &nbsp;·&nbsp; **Domain LLMs**
 
-**SPECTRA: Pushing the KV Cache Beyond the 2-Bit Cliff via Spectral Transform Coding**  
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Agent efficiency**  
+Compress what agents remember and serve them on a budget: KV cache, long-horizon context, and MoE paging.
+
+</td>
+<td width="33%" valign="top">
+
+**Skill optimization**  
+Treat skills as structured objects. Retrieve the right procedure as the skill bank grows — not a flattened document dump.
+
+</td>
+<td width="33%" valign="top">
+
+**Domain LLMs**  
+Specialize models for the workloads we ship: telecom, recommendation, visual reasoning, and time series.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Agent efficiency
+
+**[SPECTRA](https://arxiv.org/abs/2608.07915)** — Pushing the KV Cache Beyond the 2-Bit Cliff via Spectral Transform Coding  
 Jiamu Zhang, Liang Wu, Kelly Wan, Hanjie Chen, Liangjie Hong  
-*arXiv, 2026* · [paper](https://arxiv.org/abs/2608.07915) · [code](https://github.com/nokia-applied-research/SPECTRA)
+arXiv 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2608.07915) &nbsp;·&nbsp; [code](https://github.com/nokia-applied-research/SPECTRA)
 
-**Toward Reliable Context Compression for Long-Horizon Agents: An Empirical Study of Execution Instability**  
+**[TRACE](https://arxiv.org/abs/2608.06503)** — Toward Reliable Context Compression for Long-Horizon Agents: An Empirical Study of Execution Instability  
 Guanghui Min, Liang Wu, Mayank Darbari, Chen Chen, Liangjie Hong  
-*arXiv, 2026* · [paper](https://arxiv.org/abs/2608.06503) · [code](https://github.com/nokia-applied-research/Trace)
+arXiv 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2608.06503) &nbsp;·&nbsp; [code](https://github.com/nokia-applied-research/Trace)
 
-**WiSP: A Working-Set View of Mixture-of-Experts Serving on Extremely Low-Resource Hardware**  
+**[WiSP](https://arxiv.org/abs/2606.21868)** — A Working-Set View of Mixture-of-Experts Serving on Extremely Low-Resource Hardware  
 Jiamu Zhang, Liang Wu, Mayank Darbari, Liangjie Hong  
-*arXiv, 2026* · [paper](https://arxiv.org/abs/2606.21868)
+arXiv 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2606.21868)
 
-**Self-Evolving Code-with-Image Reasoning**  
-Tianze Yang, Liang Wu, Ruitong Sun, Yucheng Shi, Yanqiao Wang, Mayank Darbari, Ninghao Liu, Jin Sun, Liangjie Hong  
-*arXiv, 2026* · [paper](https://arxiv.org/abs/2608.11292) · [data](https://huggingface.co/datasets/ytz009/CwI-Bench)
+---
 
-**SAPO: Step-Aligned Policy Optimization for Reasoning-Based Generative Recommendation**  
-Zaiyi Zheng, Liang Wu, Guanghui Min, Yaochen Zhu, Liangjie Hong, Chen Chen, Jundong Li  
-*arXiv, 2026* · [paper](https://arxiv.org/abs/2605.17648)
+## Skill optimization
 
-**Towards Resilient and Autonomous Networks: A BlueSky Vision on AI-Native 6G**  
-Liang Wu, Kelly Wan, Mayank Darbari, Liangjie Hong  
-*KDD 2026* · [paper](https://arxiv.org/abs/2605.21395)
-
-**KAC: KPI-Aware Multimodal Anomaly Detection for 5G and Open RAN Telemetry**  
-Chiman Salavati, Liang Wu, Kelly Wan, Mayank Darbari, Liangjie Hong  
-*ICDM 2026 (Applied Track)* · [code](https://github.com/ChimanSalavati/kac-telecom-anomaly-detection)
-
-**Field Aware Agent Skill Retrieval**  
+**[Field Aware Agent Skill Retrieval](https://arxiv.org/abs/2608.02880)**  
 Paimon Goulart, Liang Wu, Kelly Wan, Evangelos E. Papalexakis, Liangjie Hong  
-*COLM 2026 Workshop (Lifelong Agent)* · [paper](https://arxiv.org/abs/2608.02880)
+COLM 2026 Workshop (Lifelong Agent) &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2608.02880)
 
-**TelecomAudit: Origin-Aware Benchmark Auditing and Calibration for 5G Anomaly Detection**  
-Chiman Salavati, Liang Wu, Kelly Wan, Mayank Darbari, Liangjie Hong  
-*CIKM 2026* · [code](https://github.com/ChimanSalavati/telecomts-real-synthetic-gap)
+---
 
-**PageLLM: A Multi-Grained Reward Framework for Whole-Page Optimization with Large Language Models**  
+## Domain LLMs
+
+### Visual reasoning
+
+**[Self-Evolving Code-with-Image Reasoning](https://arxiv.org/abs/2608.11292)**  
+Tianze Yang, Liang Wu, Ruitong Sun, Yucheng Shi, Yanqiao Wang, Mayank Darbari, Ninghao Liu, Jin Sun, Liangjie Hong  
+arXiv 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2608.11292) &nbsp;·&nbsp; [data](https://huggingface.co/datasets/ytz009/CwI-Bench)
+
+### Recommendation
+
+**[PageLLM](https://arxiv.org/abs/2506.09084)** — A Multi-Grained Reward Framework for Whole-Page Optimization with Large Language Models  
 Xinyuan Wang, Liang Wu, Dongjie Wang, Yanjie Fu  
-*CIKM 2026* · [paper](https://arxiv.org/abs/2506.09084)
+CIKM 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2506.09084)
 
-**LLM Agents for Time-Series: A Survey**  
+**[SAPO](https://arxiv.org/abs/2605.17648)** — Step-Aligned Policy Optimization for Reasoning-Based Generative Recommendation  
+Zaiyi Zheng, Liang Wu, Guanghui Min, Yaochen Zhu, Liangjie Hong, Chen Chen, Jundong Li  
+arXiv 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2605.17648)
+
+### Time series
+
+**[LLM Agents for Time-Series: A Survey](https://arxiv.org/abs/2608.26226)**  
 Yilong Chen, Xiao Qin, Chenghao Liu, Liang Wu, Noelle I. Samia, Kaize Ding  
-*Findings of EMNLP 2026* · [paper](https://arxiv.org/abs/2608.26226)
+Findings of EMNLP 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2608.26226)
+
+### Telecom
+
+**[Towards Resilient and Autonomous Networks: A BlueSky Vision on AI-Native 6G](https://arxiv.org/abs/2605.21395)**  
+Liang Wu, Kelly Wan, Mayank Darbari, Liangjie Hong  
+KDD 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2605.21395)
+
+**KAC** — KPI-Aware Multimodal Anomaly Detection for 5G and Open RAN Telemetry  
+Chiman Salavati, Liang Wu, Kelly Wan, Mayank Darbari, Liangjie Hong  
+ICDM 2026 (Applied Track) &nbsp;·&nbsp; [code](https://github.com/ChimanSalavati/kac-telecom-anomaly-detection)
+
+**TelecomAudit** — Origin-Aware Benchmark Auditing and Calibration for 5G Anomaly Detection  
+Chiman Salavati, Liang Wu, Kelly Wan, Mayank Darbari, Liangjie Hong  
+CIKM 2026 &nbsp;·&nbsp; [code](https://github.com/ChimanSalavati/telecomts-real-synthetic-gap)
