@@ -81,6 +81,10 @@ IEEE International Conference on Data Mining, **ICDM 2026** &nbsp;·&nbsp; [code
 Chiman Salavati, Liang Wu, Kelly Wan, Mayank Darbari, Liangjie Hong  
 ACM International Conference on Information and Knowledge Management, **CIKM 2026** &nbsp;·&nbsp; [code](https://github.com/ChimanSalavati/telecomts-real-synthetic-gap)
 
+**Mining the Self-Rewriting System: A Vision for Data Mining on AI-Native Infrastructure**  
+Mayank Darbari, Chiman Salavati, Liang Wu, Dawei Wang, Jiong Zhang, Kelly Wan, Krishna Chakka, Liangjie Hong  
+IEEE International Conference on Data Mining, **ICDM 2026**
+
 ---
 
 ## Skill optimization
