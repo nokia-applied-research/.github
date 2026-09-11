@@ -27,7 +27,7 @@ Specialize models for the workloads we ship: telecom, recommendation, visual rea
 <td width="33%" valign="top">
 
 **Skill optimization**  
-Treat skills as structured objects. Retrieve the right procedure as the skill bank grows — not a flattened document dump.
+Treat skills as structured objects. Retrieve the right procedure as the skill bank grows.
 
 </td>
 </tr>
