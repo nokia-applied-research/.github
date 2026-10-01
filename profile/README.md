@@ -4,7 +4,7 @@
 
 We build **production agents** — systems that have to run, retrieve, and reason under real constraints.
 
-<p><img src="https://raw.githubusercontent.com/nokia-applied-research/.github/main/profile/assets/photo.png" width="28" height="28" align="absmiddle" alt="Liang Wu"> &nbsp;<a href="https://www.linkedin.com/in/wuliang1/"><b>Liang Wu</b></a> &nbsp;·&nbsp; Collaborations, research internships, and talks &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nokia-applied-research/.github/main/profile/assets/email-dark.png"><img src="https://raw.githubusercontent.com/nokia-applied-research/.github/main/profile/assets/email-light.png" height="20" align="absmiddle" alt="Email address"></picture></p>
+<p><img src="https://raw.githubusercontent.com/nokia-applied-research/.github/main/profile/assets/photo.png" width="28" height="28" align="absmiddle" alt="Liang Wu"> &nbsp;<a href="https://www.linkedin.com/in/wuliang1/"><b>Liang Wu</b></a> &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nokia-applied-research/.github/main/profile/assets/email-dark.png"><img src="https://raw.githubusercontent.com/nokia-applied-research/.github/main/profile/assets/email-light.png" height="20" align="absmiddle" alt="Email address"></picture></p>
 
 </div>
 
