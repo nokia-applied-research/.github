@@ -37,6 +37,10 @@ Treat skills as structured objects. Retrieve the right procedure as the skill ba
 
 ## Agent efficiency
 
+**[PAIR](https://arxiv.org/abs/2609.36526)** — Adapting Context Compression for Long-Horizon Agents with Counterfactual Continuations  
+Guanghui Min, Liang Wu, Mingjia Shi, Yinhan He, Mayank Darbari, Liangjie Hong, Chen Chen  
+arXiv 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2609.36526)
+
 **[SPECTRA](https://arxiv.org/abs/2608.07915)** — Pushing the KV Cache Beyond the 2-Bit Cliff via Spectral Transform Coding  
 Jiamu Zhang, Liang Wu, Kelly Wan, Hanjie Chen, Liangjie Hong  
 arXiv 2026 &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2608.07915) &nbsp;·&nbsp; [code](https://github.com/nokia-applied-research/SPECTRA)
