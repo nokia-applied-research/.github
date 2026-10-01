@@ -4,6 +4,8 @@
 
 We build **production agents** — systems that have to run, retrieve, and reason under real constraints.
 
+<p><img src="https://raw.githubusercontent.com/nokia-applied-research/.github/main/profile/assets/photo.png" width="28" height="28" align="absmiddle" alt="Liang Wu"> &nbsp;<a href="https://www.linkedin.com/in/wuliang1/"><b>Liang Wu</b></a> &nbsp;·&nbsp; Collaborations, research internships, and talks &nbsp;·&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nokia-applied-research/.github/main/profile/assets/email-dark.png"><img src="https://raw.githubusercontent.com/nokia-applied-research/.github/main/profile/assets/email-light.png" height="20" align="absmiddle" alt="Email address"></picture></p>
+
 </div>
 
 <br/>
@@ -87,16 +89,3 @@ Yilong Chen, Xiao Qin, Chenghao Liu, Liang Wu, Noelle I. Samia, Kaize Ding
 **[Field Aware Agent Skill Retrieval](https://arxiv.org/abs/2608.02880)**  
 Paimon Goulart, Liang Wu, Kelly Wan, Evangelos E. Papalexakis, Liangjie Hong  
 **COLM 2026** &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2608.02880)
-
----
-
-## Contact
-
-<table><tr>
-<td><img src="https://raw.githubusercontent.com/nokia-applied-research/.github/main/profile/assets/photo.png" width="72" height="72" alt="Liang Wu"></td>
-<td>
-<b><a href="https://www.linkedin.com/in/wuliang1/">Liang Wu</a></b> &nbsp;·&nbsp; Nokia Applied Research, Sunnyvale<br/>
-Collaborations, research internships, and talks.<br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nokia-applied-research/.github/main/profile/assets/email-dark.png"><img src="https://raw.githubusercontent.com/nokia-applied-research/.github/main/profile/assets/email-light.png" height="20" align="absmiddle" alt="Email address"></picture>
-</td>
-</tr></table>
