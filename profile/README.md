@@ -12,9 +12,25 @@ We build **production agents** — systems that have to run, retrieve, and reaso
 
 ## Open source
 
-| [**AnyJev**](https://github.com/nokia-applied-research/AnyJev) <a href="https://github.com/nokia-applied-research/AnyJev/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nokia-applied-research/AnyJev?style=social" align="absmiddle"></a> | [**WiSP**](https://github.com/nokia-applied-research/WiSP) | [**SPECTRA**](https://github.com/nokia-applied-research/SPECTRA) | [**Trace**](https://github.com/nokia-applied-research/Trace) |
-|---|---|---|---|
-| Turn any LLM into a typed decision model with real probabilities. No training.<br/>`pip install anyjev` | Routing-aware expert paging for MoE serving under tight memory. A vLLM plug-in. | Training-free transform coding that pushes the KV cache past the 2-bit cliff. | Measures how context compression destabilizes long-horizon agents. |
+<table>
+<tr>
+<td width="42%" valign="top">
+
+[**AnyJev**](https://github.com/nokia-applied-research/AnyJev) <a href="https://github.com/nokia-applied-research/AnyJev/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nokia-applied-research/AnyJev?style=social" align="absmiddle"></a>  
+Turn any LLM into a typed decision model with real probabilities. No training.  
+`pip install anyjev`
+
+</td>
+<td width="58%" valign="top">
+
+**Agent efficiency**  
+[**WiSP**](https://github.com/nokia-applied-research/WiSP) — expert paging for MoE serving on vLLM  
+[**SPECTRA**](https://github.com/nokia-applied-research/SPECTRA) — KV cache compression past the 2-bit cliff  
+[**Trace**](https://github.com/nokia-applied-research/Trace) — reliable context compression for long-horizon agents
+
+</td>
+</tr>
+</table>
 
 ---
 
