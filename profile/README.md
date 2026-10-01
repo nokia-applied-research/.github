@@ -16,7 +16,7 @@ We build **production agents** — systems that have to run, retrieve, and reaso
 <tr>
 <td width="42%" valign="top">
 
-[**AnyJev**](https://github.com/nokia-applied-research/AnyJev) <a href="https://github.com/nokia-applied-research/AnyJev/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nokia-applied-research/AnyJev?style=social" align="absmiddle"></a>  
+[**AnyJev**](https://github.com/nokia-applied-research/AnyJev) <a href="https://github.com/nokia-applied-research/AnyJev"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nokia-applied-research/AnyJev?style=social" align="absmiddle"></a>  
 Turn any LLM into a typed decision model with real probabilities. No training.  
 `pip install anyjev`
 
